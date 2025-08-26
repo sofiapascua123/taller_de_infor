@@ -1,0 +1,193 @@
+p{
+    color:rgb(223, 181, 67) ;
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+    width: 85%;
+    margin: auto;
+  vertical-align: auto;
+  text-align: center;
+  
+
+}
+
+img{
+    width: 20%;
+  display: block;
+  margin: auto;
+  border: 30px;
+   border: 7px solid rgba(241, 192, 28, 0.89);
+}
+footer{
+  color: #f5cd1d;
+  margin: auto;
+width: auto;
+font-family: 'Courier New', Courier, monospace;
+   height: 100px;
+ text-align: center;
+ font-size: 50px;
+ padding: 30px;
+  margin: auto;
+ 
+}
+header{
+  color: #ebb343 ;
+ height: 300px;
+ width:auto;
+ margin:auto ;
+  font-size: 20px;
+  font-family: 'Courier New', Courier, monospace;
+ border: 7px solid  #382b10;
+ 
+  
+background-image: url(https://thumbs.dreamstime.com/b/pel%C3%ADcula-de-cine-fondo-patr%C3%B3n-ininterrumpido-vintage-para-su-dise%C3%B1o-ilustraci%C3%B3n-vectorial-285425589.jpg);
+}
+
+h4{
+  color: rgb(230, 208, 16);
+ font-family: 'Courier New', Courier, monospace;
+   text-align: center;
+   font-size: 40px;
+
+    
+}
+h2{
+   border: 7px double  #e07c5e9a;
+  color:rgb(22, 17, 3);
+font: 40px Courier New ;
+   width:90%;
+    margin: auto;
+  background-color:  rgb(206, 161, 48);
+    text-align: center;
+    padding: 30px;
+  margin: auto;
+}
+
+li{
+  color: rgb(248, 224, 2);
+  font-size: 50px;
+    width: 85%;
+    margin: auto;
+    font-family: 'Courier New', Courier, monospace;
+}
+div{
+ margin: auto;
+ background-color: #2b210ce5;
+  width:90%;
+  padding: 30px;
+  margin: auto;
+  border: 7px solid rgba(192, 149, 32, 0.87);
+ 
+}
+body{
+  background-color: #0a0902;
+}
+
+h1{
+   font-size: 90px;
+   font-family: 'Courier New', Courier, monospace;
+    width: 85%;
+    margin: auto;
+    text-align: center;
+    padding: 30px;
+ 
+  
+}
+a{
+  font-family: 'Courier New', Courier, monospace;
+   text-decoration: none;
+   color: rgb(17, 13, 3);
+ text-align: justify;
+}
+
+.marg{
+  border: 7px solid  #a59121;
+ padding: 30px;
+  margin: auto;
+}
+
+.im{
+  margin: auto;
+  width: 80%;
+  height: 45%;
+  border: 7px solid  #a59121;
+}
+
+.tabla{
+  overflow: scroll;
+}
+.tam{
+  
+padding: 30px;
+  margin: auto;
+}
+.cos{
+  width: 85%;
+  border: 7px double rgba(216, 213, 41, 0.94);
+padding: 30px;
+}
+h5{
+   border: 7px solid rgba(240, 206, 17, 0.945);
+   background-color: #161101;
+}
+table{
+ 
+  width: 1500px;
+  height: auto;
+  margin: auto;
+}
+th{
+  height: 100px;
+  
+ background-color: #927f13ef;
+  font-size: 30px;
+  border: 7px solid rgba(219, 176, 32, 0.856);
+}
+td{
+ 
+  border: 7px solid rgba(219, 176, 32, 0.856);
+  background-color: #181505;
+}
+.ov{
+  overflow: scroll;
+  height: 300px;
+  width: 50%;
+}
+.contenedor{
+  display: grid;
+  grid-template-areas: 
+  "actores actores actores actores";
+  border: 7px solid rgba(219, 176, 32, 0.856);
+  overflow: scroll;
+  
+}
+.actores{
+  width: 250px;
+  height: 300px;
+  border: 0cm;
+}
+.oricontenedor{
+  display: grid;
+  grid-template-areas: 
+  "ori ori ori ori_im";
+ border: 7px solid rgba(219, 176, 32, 0.856);
+
+    
+}
+.ori{
+  border: 0cm;
+  background-color: #2b210ce5;
+}
+.ori_im{
+  border: 0cm;
+  background-color: #2b210ce5;
+}
+.menu{
+  color: #f5cd1d;
+}
+.menus{
+  background-color: #161101;
+width: auto;
+  color: #f5cd1d;
+ font-size: 15px;
+ border: 0cm;
+}
